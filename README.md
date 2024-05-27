@@ -75,7 +75,7 @@
 
   <!-- Spotify stats -->
   <div style="text-align: center;">
-    <h3 style="margin: 0; margin-right: 150px;">My Recently Played Tracks:</h3>
+    
   <a href="https://open.spotify.com/user/nsei4r3n852911jc7t0ntlrq1?si=953fe62a1b704cae" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=nsei4r3n852911jc7t0ntlrq1&count=5&unique=true" alt="Spotify recently played"  />
   </a>
