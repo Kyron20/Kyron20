@@ -56,9 +56,12 @@
 ###
 
 <div align="center">
-  <h3>Profile View Counter:</h3>
-  <img src="https://profile-counter.glitch.me/Kyron20/count.svg?" />
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <h3>Profile Views</h3>
+    <img src="https://profile-counter.glitch.me/Kyron20/count.svg?" />
+  </div>
 </div>
+
 
 ###
 
