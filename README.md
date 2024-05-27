@@ -71,7 +71,7 @@
 
 <div align="center">
   <!-- Left image or GIF -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrZjFyMGVlY2VrYmZnMGs3MWdobzNwcjJidmRwM2hxeGlsZG5rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif" width="200" height="200" style="margin-right: 10px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrZjFyMGVlY2VrYmZnMGs3MWdobzNwcjJidmRwM2hxeGlsZG5rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif" width="220" height="220" style="margin-right:0px;" />
 
   <!-- Spotify stats -->
   <a href="https://open.spotify.com/user/nsei4r3n852911jc7t0ntlrq1?si=953fe62a1b704cae" target="_blank">
@@ -79,7 +79,7 @@
   </a>
 
   <!-- Right image or GIF -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrZjFyMGVlY2VrYmZnMGs3MWdobzNwcjJidmRwM2hxeGlsZG5rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif" width="200" height="200" style="margin-left: 10px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrZjFyMGVlY2VrYmZnMGs3MWdobzNwcjJidmRwM2hxeGlsZG5rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif" width="220" height="220" style="margin-left:0px;" />
 </div>
 </div>
 
