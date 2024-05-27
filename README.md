@@ -73,9 +73,7 @@
   <!-- Left image or GIF -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJrZjFyMGVlY2VrYmZnMGs3MWdobzNwcjJidmRwM2hxeGlsZG5rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBYgkYhFRuNGHLvEEN/giphy.gif" width="200" height="200" style="margin-right:10px;" />
 
-  <!-- Spotify stats -->
-  <div style="text-align: center;">
-    
+  <!-- Spotify stats -->  
   <a href="https://open.spotify.com/user/nsei4r3n852911jc7t0ntlrq1?si=953fe62a1b704cae" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=nsei4r3n852911jc7t0ntlrq1&count=5&unique=true" alt="Spotify recently played"  />
   </a>
