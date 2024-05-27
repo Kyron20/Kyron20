@@ -57,7 +57,7 @@
 
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3 style="margin: 0; margin-right: 10px;">Profile Views</h3>
+    <h3 style="margin: 0; margin-right: 150px;">Profile Views</h3>
     <img src="https://profile-counter.glitch.me/Kyron20/count.svg?" style="margin-top: 5px;" />
   </div>
 </div>
