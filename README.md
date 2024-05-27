@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="250" width="250" src="https://media.tenor.com/ocEDQd5kXf4AAAAM/gokublack-dbs.gif"  />
+<img align="right" height="225" width="300" src="https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif"  />
 <br>
 
 ###
