@@ -4,6 +4,10 @@
 <p align="center">I am a Computer Science Graduate at the University of Kent. I've worked on diverse projects spanning web and software development. From building interactive web applications with React and WordPress to crafting robust solutions with Java and C#, I'm passionate about leveraging technology to solve real-world problems. You can scroll down to check some of the stuff I have been up to!</p>
 
 ###
+<div align="center">
+Co-created https://findopendays.com/ & https://24lc.co.uk/
+  <br>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyron20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&token=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" height="150" alt="stats graph"  />
