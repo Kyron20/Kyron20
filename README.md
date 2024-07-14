@@ -1,4 +1,4 @@
-<h2 align="center">Hi my name is Kyron and welcome to my profile!</h2>
+<h2 align="center">Hi, my name is Kyron Robinson and welcome to my profile!</h2>
 
 ###
 <p align="center">I am a Computer Science Graduate at the University of Kent. I've worked on diverse projects spanning web and software development. From building interactive web applications with React and WordPress to crafting robust solutions with Java, C# & C++. I'm passionate about leveraging technology to solve real-world problems. You can scroll down to check some of the stuff I have been up to!</p>
